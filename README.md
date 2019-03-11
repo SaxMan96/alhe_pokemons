@@ -13,3 +13,4 @@ virtualenv -p python3.7 venv
 . venv/bin/activate
 pip install -r pip_requirements.txt
 ```
+[Documentation.pdf](https://github.com/SaxMan96/alhe_pokemons/blob/master/ALHE%20dokumentacja%20(1).pdf)
